@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artem Septenal</h1>
 <h3 align="center">A passionate QA engineer Junior+/middle from Russia</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/the-pizzacat-cat-cats-computer-cmCEsJZHYBPels360q">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif">
 
 - 🔭 I’m currently working on **Utest**
 
